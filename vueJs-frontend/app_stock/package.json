@@ -1,0 +1,25 @@
+{
+  "name": "appstock2",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 4173"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.11.5",
+    "bootstrap": "^5.2.0",
+    "bootstrap-icons-vue": "^1.8.1",
+    "datatables.net-select": "^1.4.0",
+    "datatables.net-vue3": "^1.0.0",
+    "jl-datatable": "^1.1.1",
+    "jquery": "^3.6.0",
+    "sass": "^1.54.1",
+    "vue": "^3.2.37",
+    "vue-router": "^4.1.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.0.1",
+    "vite": "^3.0.1"
+  }
+}
